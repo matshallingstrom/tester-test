@@ -17,3 +17,4 @@ An unopened 33 cl can of Coca Cola Zero.
 
 
 # Submit work sample 
+Submit your work sample to Collector Bank if you are looking for a position as a modern, self driven, agile, exploratory tester. 
